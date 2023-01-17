@@ -1,2 +1,2 @@
-email :
-gitID :
+email : ghkd2401@gmail.com
+gitID : Ruanes-J
